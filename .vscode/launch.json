@@ -1,0 +1,104 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Debug Aula_5",
+            "target": "Aula_5",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Aula_5"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Release Aula_5",
+            "target": "Aula_5",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Aula_5"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Debug Aula_4",
+            "target": "Aula_4",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Aula_4"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Release Aula_4",
+            "target": "Aula_4",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Aula_4"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Debug Aula_3",
+            "target": "Aula_3",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Aula_3"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Release Aula_3",
+            "target": "Aula_3",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Aula_3"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Debug Aula_2",
+            "target": "Aula_2",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Aula_2"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Release Aula_2",
+            "target": "Aula_2",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Aula_2"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Debug Aula_1",
+            "target": "Aula_1",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Aula_1"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Release Aula_1",
+            "target": "Aula_1",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Aula_1"
+        }
+    ]
+}
