@@ -99,6 +99,26 @@
             "target": "Aula_1",
             "configuration": "release",
             "preLaunchTask": "swift: Build Release Aula_1"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Debug Projeto",
+            "target": "Projeto",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Projeto"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Release Projeto",
+            "target": "Projeto",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Projeto"
         }
     ]
 }
