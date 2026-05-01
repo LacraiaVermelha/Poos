@@ -139,6 +139,46 @@
             "target": "Projeto_dia1",
             "configuration": "release",
             "preLaunchTask": "swift: Build Release Projeto_dia1"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Debug Projeto_dia2",
+            "target": "Projeto_dia2",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Projeto_dia2"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Release Projeto_dia2",
+            "target": "Projeto_dia2",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Projeto_dia2"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Debug Projeto_dia3",
+            "target": "Projeto_dia3",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Projeto_dia3"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Poos}",
+            "name": "Release Projeto_dia3",
+            "target": "Projeto_dia3",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Projeto_dia3"
         }
     ]
 }
